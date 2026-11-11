@@ -16,7 +16,7 @@ This version adds a custom decryption step in the loading pipeline. Encrypted mo
 - Supports stripping fake file headers that were added during encryption
 - Code structure works well with heavy obfuscators like JSVMP
 
-Full encryption scripts and usage notes are available on my blog: [https://www.zkryn.com](https://www.zkryn.com)
+Full encryption scripts and usage notes are available on my blog: [https://www.zkryn.com/posts/5a8a6c8d/](https://www.zkryn.com/posts/5a8a6c8d/)
 
 ## Important Notes
 
