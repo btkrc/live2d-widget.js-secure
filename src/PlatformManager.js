@@ -109,7 +109,7 @@ PlatformManager.prototype.loadLive2DModel = function (path/*String*/, callback) 
 
         var _raw = new Uint8Array(buf);
         //  假头长度
-        var _headerLen = 16;
+        var _headerLen = 32;
         var _dataLen = _raw.length - _headerLen;
         var _dec = new Uint8Array(_dataLen);
 

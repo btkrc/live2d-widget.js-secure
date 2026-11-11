@@ -51,7 +51,7 @@ ModelSettingJson.prototype.loadModelSetting = function (path, callback) {
         // ==========================================================
 
         var _raw = new Uint8Array(buf);
-        var _headerLen = 16;
+        var _headerLen = 32;
         var _dataLen = _raw.length - _headerLen;
         var _dec = new Uint8Array(_dataLen);
 
