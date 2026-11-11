@@ -1,8 +1,8 @@
 {
-  "name": "live2d-widget",
-  "version": "3.1.5",
+  "name": "live2d-widget.js-secure",
+  "version": "1.0.0",
   "main": "./lib/L2Dwidget.common.js",
-  "description": "Add the Sseexxyyy live2d to webpages.",
+  "description": "A modified live2d-widget.js with custom decryption support for encrypted Live2D assets.",
   "scripts": {
     "update:submodule": "git submodule foreach git pull origin master",
     "_esdoc": "./node_modules/.bin/esdoc",
@@ -40,7 +40,7 @@
     "xiazeyu <xiazeyu_2011@126.com>",
     "EYHN <cneyhn@gmail.com>"
   ],
-  "license": "GPL-2.0",
+  "license": "AGPL-3.0",
   "bugs": {
     "url": "https://github.com/xiazeyu/live2d-widget.js/issues"
   },

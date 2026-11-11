@@ -1,4 +1,4 @@
-# live2d-widget-encrypted
+# live2d-widget-secure
 
 A modified version of [xiazeyu/live2d-widget.js](https://github.com/xiazeyu/live2d-widget.js) with added support for encrypted assets.
 
